@@ -43,3 +43,46 @@
 
 [[22] iGPT: Generative Pretraining from Pixels](https://zhuanlan.zhihu.com/p/657963444)
 
+[[23] 如何对 CLIP 进行 fine-tuning？](https://zhuanlan.zhihu.com/p/658645438)
+
+[[24] ELMo: 生不逢时的动态词向量](https://zhuanlan.zhihu.com/p/658709277)
+
+[[25] DeepWalk: Random Walk + word2vec 学习图节点向量表示](https://zhuanlan.zhihu.com/p/658938347)
+
+[[26] Science BERT: 使用论文数据预训练的 BERT 模型](https://zhuanlan.zhihu.com/p/659205938)
+
+[[27] BioBERT: 生物医学领域自己的 BERT 模型](https://zhuanlan.zhihu.com/p/659209593)
+
+[[28] Clinical BERT: 使用 MIMIC 数据集继续训练 BERT 模型](https://zhuanlan.zhihu.com/p/659607514)
+
+[[29] 不要停，继续预训练](https://zhuanlan.zhihu.com/p/659609320)
+
+[[30] node2vec=skip-gram+bfs+dfs](https://zhuanlan.zhihu.com/p/658731335)
+
+[[31] Non-local: 注意力机制的一种形态](https://zhuanlan.zhihu.com/p/660116933)
+
+[[32] START: 自监督轨迹表示学习框架](https://zhuanlan.zhihu.com/p/660304153)
+
+[[33] 线性复杂度的高效注意力机制：矩阵乘法的交换律](https://zhuanlan.zhihu.com/p/656944206)
+
+[[重读经典, 常读常新][35] 注意力机制在 NLP 领域的诞生](https://zhuanlan.zhihu.com/p/660922705)
+
+[[重读经典，常读常新][36]注意力机制在 NLP 领域的诞生 2](https://zhuanlan.zhihu.com/p/660955612)
+
+[[37] 自注意力机制启蒙：用于句子编码](https://zhuanlan.zhihu.com/p/661013687)
+
+[[重读经典，常读常新][38] Transformer: Attention Is All You Need](https://zhuanlan.zhihu.com/p/661228490)
+
+[[39] LERT: 语言学信息增强的**中文**预训练模型](https://zhuanlan.zhihu.com/p/664200148)
+
+[[40] GAT: GCN + Self-Attention](https://zhuanlan.zhihu.com/p/664316204)
+
+[[41] CA-MSER: 多模态语音情感识别](https://zhuanlan.zhihu.com/p/664350153)
+
+[[42] GraphSAGE: 基于特征的节点向量(图表示)学习方法](https://zhuanlan.zhihu.com/p/664524290)
+
+[[43] Tail-GNN: 提升 graph 中尾节点向量的质量](https://zhuanlan.zhihu.com/p/664631713)
+
+
+
+
