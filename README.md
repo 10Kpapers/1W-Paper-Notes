@@ -93,4 +93,7 @@
 
 [[48] K-EmoCon: 自然对话场景下采集的情感识别数据集](https://zhuanlan.zhihu.com/p/665276718)
 
+[[49] MIND: 一个大规模英文新闻推荐的公开数据集](https://zhuanlan.zhihu.com/p/665453122)
+
+
 
