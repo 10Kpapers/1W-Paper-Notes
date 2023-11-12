@@ -83,6 +83,14 @@
 
 [[43] Tail-GNN: 提升 graph 中尾节点向量的质量](https://zhuanlan.zhihu.com/p/664631713)
 
+[[44] E-GAN: 用演化算法训练 GAN 模型](https://zhuanlan.zhihu.com/p/664665262)
 
+[[45] HAN: 层级注意力模型用于篇章分类](https://zhuanlan.zhihu.com/p/664713316)
+
+[[46] MO-EGAN: 用多目标演化算法训练GAN](https://zhuanlan.zhihu.com/p/665040587)
+
+[[47] DiffDock:用扩散模型解决分子对接任务](https://zhuanlan.zhihu.com/p/665191390)
+
+[[48] K-EmoCon: 自然对话场景下采集的情感识别数据集](https://zhuanlan.zhihu.com/p/665276718)
 
 
