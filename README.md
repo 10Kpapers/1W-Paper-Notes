@@ -95,5 +95,36 @@
 
 [[49] MIND: 一个大规模英文新闻推荐的公开数据集](https://zhuanlan.zhihu.com/p/665453122)
 
+[[50] NRMS: 多头自注意力模型(MHSA)做新闻推荐](https://zhuanlan.zhihu.com/p/666790963)
+
+[[51] EEG Conformer: 融合 CNN 和 Transformer处理 EEG 数据](https://zhuanlan.zhihu.com/p/667108069)
+
+[[52] 多模态方法分析 EEG 和 Language 的关联](https://zhuanlan.zhihu.com/p/667939200)
+
+[[53] LightGCN: 为推荐系统设计的简化线性 GCN](https://zhuanlan.zhihu.com/p/668004690)
+
+[[54] MMGCN: 多模态推荐中建模用户单模态兴趣](https://zhuanlan.zhihu.com/p/668007500)
+
+[[55] GRCN: 计算推荐系统二分图中 u 和 i 的权重](https://zhuanlan.zhihu.com/p/668034694)
+
+[[56] LATTICE: 为多模态推荐系统引入 item-item graph](https://zhuanlan.zhihu.com/p/668077988)
+
+[[57] SGL: 在 GCN 推荐模型中加入自监督学习](https://zhuanlan.zhihu.com/p/668136885)
+
+[[58] MMGCL:多模态图对比学习](https://zhuanlan.zhihu.com/p/668160938)
+
+[[59] SimGCL: 推荐系统中没有图增强的对比学习](https://zhuanlan.zhihu.com/p/668230688)
+
+[[60] NCL: 构建邻居信息进行图对比学习](https://zhuanlan.zhihu.com/p/668291477)
+
+[[61] LightGCL: 使用 SVD 进行图增强](https://zhuanlan.zhihu.com/p/668291997)
+
+[[62] GraphRec: 面向社交网络推荐的 GNN 模型](https://zhuanlan.zhihu.com/p/668599880)
+
+[[63] ProtMD: 利用 MD 数据预训练蛋白质表征模型](https://zhuanlan.zhihu.com/p/668607279)
+
+[[64] DMSGer: 多尺度动态GCN用于高光谱图像分类](https://zhuanlan.zhihu.com/p/668857986)
+
+[[65] SSLRec:自监督推荐模型框架哪家强？](https://zhuanlan.zhihu.com/p/669168807)
 
 
