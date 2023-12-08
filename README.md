@@ -127,4 +127,17 @@
 
 [[65] SSLRec:自监督推荐模型框架哪家强？](https://zhuanlan.zhihu.com/p/669168807)
 
+[[66] GLUE: 多任务的句子语义理解评估平台](https://zhuanlan.zhihu.com/p/669417513)
+
+[[67] SuperGLUE: 难度升级的 GLUE](https://zhuanlan.zhihu.com/p/669442026)
+
+[[68] ChatGPT vs BERT: 文本语义理解哪家强？](https://zhuanlan.zhihu.com/p/669448809)
+
+[[69] LLMRec: 使用ChatGPT为推荐模型二分图引入先验知识](https://zhuanlan.zhihu.com/p/670111923)
+
+[[70] Gemini 1.0 Google对抗OpenAI的多模态大模型](https://zhuanlan.zhihu.com/p/670817721)
+
+
+
+
 
