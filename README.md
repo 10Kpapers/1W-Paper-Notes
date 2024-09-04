@@ -215,6 +215,13 @@
 
 [[109] LIMIT: 指令数据多样性很重要](https://zhuanlan.zhihu.com/p/707854411)
 
+[[110] Natural Instructions: 对BART做指令微调](https://zhuanlan.zhihu.com/p/708401243)
+
+[[111] LLaVA-1.5: 对LLaVA的小改动，大提升](https://zhuanlan.zhihu.com/p/708414379)
+
+[[112] Flan: LLM指令微调开山之作](https://zhuanlan.zhihu.com/p/708349440)
+
+[[113] HiGPT: 异构图Graph+LLM大模型](https://zhuanlan.zhihu.com/p/707752324)
 
 
 
