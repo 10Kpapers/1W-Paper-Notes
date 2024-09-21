@@ -223,13 +223,18 @@
 
 [[113] HiGPT: 异构图Graph+LLM大模型](https://zhuanlan.zhihu.com/p/707752324)
 
+[[114] HiAGM: 层级感知的层级文本分类模型](https://zhuanlan.zhihu.com/p/718357240)
 
+[[115] HiMatch:在层级文本分类任务中考虑文本和类别标签匹配](https://zhuanlan.zhihu.com/p/718429861)
 
+[[116] HiTIN: 基于编码树的类别层级编码器](https://zhuanlan.zhihu.com/p/718631823)
 
+[[117] HILL: HiTIN+对比学习](https://zhuanlan.zhihu.com/p/718641122)
 
+[[118]Graph-Mamba：Graph建模，Mamba也来掺和掺和](https://zhuanlan.zhihu.com/p/718647890)
 
+[[119] DyGFormer: Transformer用于动态图链接预测](https://zhuanlan.zhihu.com/p/718772712)
 
+[[120] HiGen: 层级感知的文本标签生成](https://zhuanlan.zhihu.com/p/718856822)
 
-
-
-
+[[121] DyG-Mamba: Mamba用于动态图链接预测](https://zhuanlan.zhihu.com/p/718978450)
