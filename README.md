@@ -238,3 +238,18 @@
 [[120] HiGen: 层级感知的文本标签生成](https://zhuanlan.zhihu.com/p/718856822)
 
 [[121] DyG-Mamba: Mamba用于动态图链接预测](https://zhuanlan.zhihu.com/p/718978450)
+
+[[122] 将NER看作机器阅读理解任务](https://zhuanlan.zhihu.com/p/719024201)
+
+[[123] OPRO: 将LLM看作优化器](https://zhuanlan.zhihu.com/p/719271119)
+
+[[124] GPO:像梯度下降算法那样设计meta-prompt](https://zhuanlan.zhihu.com/p/719899510)
+
+[[125]Prompt优化和few-shot都好才是真的好](https://zhuanlan.zhihu.com/p/719930590)
+
+[[126] STaR: 为LLM插上推理的翅膀](https://zhuanlan.zhihu.com/p/720145703)
+
+[[127] Quiet-STAR: 或许隐藏着OpenAI o1的推理秘密](https://zhuanlan.zhihu.com/p/720792826)
+
+[[128] self-refine: 让LLM自己修改outupt](https://zhuanlan.zhihu.com/p/721788160)
+
