@@ -253,3 +253,28 @@
 
 [[128] self-refine: 让LLM自己修改outupt](https://zhuanlan.zhihu.com/p/721788160)
 
+[[129] Xwin-Math-7B: LLaMA-2 7B模型也能有不错的数学能力](https://zhuanlan.zhihu.com/p/722054388)
+
+[[130]V-STaR: DPO Verifier + STaR提升LLM推理能力](https://zhuanlan.zhihu.com/p/731206258)
+
+[[131] self-consistency: 配合CoT prompt大幅提升LLM推理能力](https://zhuanlan.zhihu.com/p/747542338)
+
+[[132]Verifier: 来自OpenAI的提升LLM(数学)推理的方案](https://zhuanlan.zhihu.com/p/890851783)
+
+[[133] CoRe: Verifier+MCTS+迭代 提升LLM(数学)推理能力](https://zhuanlan.zhihu.com/p/919311018)
+
+[[134] Let’s Verify Step by Step](https://zhuanlan.zhihu.com/p/941404902)
+
+[[135] Math-Shepherd: 自动创建Process Verifier训练集](https://zhuanlan.zhihu.com/p/977020119)
+
+[[136] OmegaPRM:MCTS+二分查找 高效地自动构建Process Verifier训练集](https://zhuanlan.zhihu.com/p/1307670760)
+
+[[137] Generative Verifiers: 生成式Verifier模型](https://zhuanlan.zhihu.com/p/1490751136)
+
+[[138] Thinking LLMs: 利用偏好学习提升LLM的通用推理能力](https://zhuanlan.zhihu.com/p/1728486618)
+
+[[139]为什么需要RL(HF)以及DPO推导](https://zhuanlan.zhihu.com/p/3001824384)
+
+[[140] 动态温度系数T和最近比较火的entropix](https://zhuanlan.zhihu.com/p/3385578238)
+
+[[141] GSM-Symbolic: LLM不会数学推理？| No](https://zhuanlan.zhihu.com/p/4557582584)
