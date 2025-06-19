@@ -278,3 +278,7 @@
 [[140] 动态温度系数T和最近比较火的entropix](https://zhuanlan.zhihu.com/p/3385578238)
 
 [[141] GSM-Symbolic: LLM不会数学推理？| No](https://zhuanlan.zhihu.com/p/4557582584)
+
+[[142] Visual-ARFT: 一种基于可验证奖励（RLVR）的多模态 Agent 强化训练方法](./posters/Visual-ARFT.pdf)
+
+[[143] 腾讯混元 TurboS技术报告](./posters/TengXun-HunYuan-TurboS.pdf)
