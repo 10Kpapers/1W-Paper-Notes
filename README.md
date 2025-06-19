@@ -313,6 +313,40 @@
 
 [[158] Toolformer: 自监督+SFT让llm学会使用tool](./posters/ToolFormer.pdf)
 
+[[159] HuggingGPT: prompt驱动LLM指挥model工作](./posters/HuggingGPT.pdf)
+
+[[160] ToolkenGPT: 将工具token化与向量化](./posters/ToolkenGPT.pdf)
+
+[[161] ToolLLM: 构建超大规模API指令微调数据](./posters/ToolLLM.pdf)
+
+[[162] CRITIC: LLM通过tool辅助批评，然后自我纠错](./posters/CRITIC.pdf)
+
+[[163] ToRA: 探索TIR + sft多样性 做数学任务](./posters/ToRA.pdf)
+
+[[164] Reinforcement Pre-Training: 如何做大规模通用领域的RLVR训练](./posters/ReinforcementPre-Training.pdf)
+
+[[165] DeepMath-103K: 高质量高难度的数学数据集](./posters/DeepMath-103K.pdf)
+
+[[166] Soft Thinking: 引入连续空间概念的解码策略](./posters/SoftThinking.pdf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
