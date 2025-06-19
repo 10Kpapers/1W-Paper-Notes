@@ -267,7 +267,7 @@
 
 [[135] Math-Shepherd: 自动创建Process Verifier训练集](https://zhuanlan.zhihu.com/p/977020119)
 
-[[136] OmegaPRM:MCTS+二分查找 高效地自动构建Process Verifier训练集](https://zhuanlan.zhihu.com/p/1307670760)
+[[136] OmegaPRM: MCTS+二分查找 高效地自动构建Process Verifier训练集](https://zhuanlan.zhihu.com/p/1307670760)
 
 [[137] Generative Verifiers: 生成式Verifier模型](https://zhuanlan.zhihu.com/p/1490751136)
 
@@ -282,3 +282,40 @@
 [[142] Visual-ARFT: 一种基于可验证奖励（RLVR）的多模态 Agent 强化训练方法](./posters/Visual-ARFT.pdf)
 
 [[143] 腾讯混元 TurboS技术报告](./posters/TengXun-HunYuan-TurboS.pdf)
+
+[[144] ToRL: 让Qwen-math学会生成代码求解数学题](./posters/ToRL.pdf)
+
+[[145] ZTRL: 让Qwen base学会生成代码求解数学题](./posters/ZTRL.pdf)
+
+[[146] ToolRL: PRM版本的RLVR?](./posters/ToolRL.pdf)
+
+[[147] Intuitor: 不要RLHF和RLVR，如何创建reward?](./posters/Intuitor.pdf)
+
+[[148] ToolN1: 如何将LLM+RL+tool扩展到非数学领域](./posters/Tool-N1.pdf)
+
+[[149] Search R1: 如何做LLM+RLVR+搜索引擎tool](./posters/Search-R1.pdf)
+
+[[150] R1-Searcher: 两阶段法做RLVR + search tool](./posters/R1-Searcher.pdf)
+
+[[151] ReSearch: 让llm学会推理是使用search tool](./posters/ReSearch.pdf)
+
+[[152] Tool-Star: 如何让LLM学会使用多种tool推理](./posters/Tool-Star.pdf)
+
+[[153] START: 如何用Hint+SFT唤醒QwQ的工具能力？](./posters/START.pdf)
+
+[[154] ZeroSearch: 零API成本+RLVR训练LLM使用搜索](./posters/ZeroSearch.pdf)
+
+[[155] WebDancer: 如何让llm有更强的信息检索能力](./posters/WebDancer.pdf)
+
+[[156] RRec: 如何基于llm构建先推理再推荐的模型？](./posters/RREC.pdf)
+
+[[157] WebGPT: 用SFT+RLHF训练GPT-3使用搜索引擎](./posters/WebGPT.pdf)
+
+[[158] Toolformer: 自监督+SFT让llm学会使用tool](./posters/ToolFormer.pdf)
+
+
+
+
+
+
+
