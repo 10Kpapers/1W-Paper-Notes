@@ -329,6 +329,8 @@
 
 [[166] Soft Thinking: 引入连续空间概念的解码策略](./posters/SoftThinking.pdf)
 
+[[167] DeepResearch Bench: 博士级任务 + LLM-as-a-Judge，评测DeepResearch Agent的新基准](./posters/DeepResearchBench.pdf)
+
 
 
 
