@@ -331,22 +331,9 @@
 
 [[167] DeepResearch Bench: 博士级任务 + LLM-as-a-Judge，评测DeepResearch Agent的新基准](./posters/DeepResearchBench.pdf)
 
+[[168] Kimi-Researcher: 看看Kimi如何做DeepResearch](./posters/Kimi-Researcher.pdf)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[[169] ReasoningNCP: 如何将RLVR应用于长故事生成任务？](./posters/ReasoningNCP.pdf)
 
 
 
