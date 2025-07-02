@@ -335,6 +335,18 @@
 
 [[169] ReasoningNCP: 如何将RLVR应用于长故事生成任务？](./posters/ReasoningNCP.pdf)
 
+[[170] AutoRefine: 在search + TIR推理时，让llm对检索结果先精炼再推理](./posters/AutoRefine.pdf)
+
+[[171] Thinkless: SFT+DeGRPO两阶段训练，让推理模型具备混合推理能力](./posters/Thinkless.pdf)
+
+[[172] RCO: 面向改进(refine)的批评模型(critic model)优化](./posters/RCO.pdf)
+
+
+
+
+
+
+
 
 
 
