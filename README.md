@@ -341,16 +341,37 @@
 
 [[172] RCO: 面向改进(refine)的批评模型(critic model)优化](./posters/RCO.pdf)
 
+[[173] MassTool: 在Tool-Augmented LLM中用于高效工具召回](./posters/MassTool.pdf)
 
+[[174] 第二代 Skywork open reward model](./posters/Skywork-Reward-V2.pdf)
 
+[[175] WebSailor: 要想LLM Deep Search能力强，训练集必须高难度](./posters/WebSailor.pdf)
 
+[[176] HiRA: 将TIR工具推理拆解为Multi-Agent](./posters/HiRA.pdf)
 
+[[177] mem0: 如何为llm实现记忆(memory)机制](./posters/Mem0.pdf)
 
+[[178] LongWriter: 通过生成长输出数据做sft提升llm的长文生成能力](./posters/LongWriter.pdf)
 
+[[179] LongWriter-Zero: 用RLVR的方式训练得到reasoning llm进行长文生成任务](./posters/LongWriter-Zero.pdf)
 
+[[180] Multimodal DeepResearcher：如何生成包含可视化图表的技术报告？](./posters/MultimodalDeepResearcher.pdf)
 
+[[181] MemoryAgentBench: 专门测试Agent的memory能力](./posters/MemoryAgentBench.pdf)
 
+[[182] DualDistill：通过双教师轨迹拼接蒸馏+自蒸馏 提升数学推理能力](./posters/DualDistill.pdf)
 
+[[183] DeepSeek-GRM: 如何训练支持多输入格式的Reward Model，如何做RM的Inference-Time scaling](./posters/DeepSeek-GRM.pdf)
 
+[[184] MemoryOS：像操作系统段页式内存管理那样设计LLM Agent Memory架构](./posters/MemoryOS.pdf)
 
+[[185] 快手KAT-V1：如何让llm学会自主决定“要不要思考”？](./posters/KAT-V1.pdf)
+
+[[186] Agent KB: 用五元组表示可迁移的agent经验](./posters/AgentKB.pdf)
+
+[[187] MEM1: 针对TIR(Tool-Integrated Reasoning)场景的Memory机制](./posters/Mem1.pdf)
+
+[[188] Proxy-Tuning：用小模型引导大模型的零参数调优方法](./posters/proxy-tuning.pdf)
+
+[[189] ThinkLogit: 将Proxy-tuning方法扩展到reasoning llm](./posters/ThinkLogit.pdf)
 
