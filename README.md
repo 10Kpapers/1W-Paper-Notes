@@ -375,3 +375,10 @@
 
 [[189] ThinkLogit: 将Proxy-tuning方法扩展到reasoning llm](./posters/ThinkLogit.pdf)
 
+[[190] Seed-X: 专注于多语言翻译的开源7B llm](./posters/Seed-X.pdf)
+
+[[191] WebShaper: 用集合论重新解释信息检索任务](./posters/WebShaper.pdf)
+
+[[192] DeepWriter: 基于本地资料的多模态写作助手](./posters/DeepWriter.pdf)
+
+[[193] Deep Cognition: 如何在Deep Research任务中做好人机交互](./posters/DeepCognition.pdf)
