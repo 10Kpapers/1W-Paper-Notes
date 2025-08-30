@@ -382,3 +382,57 @@
 [[192] DeepWriter: 基于本地资料的多模态写作助手](./posters/DeepWriter.pdf)
 
 [[193] Deep Cognition: 如何在Deep Research任务中做好人机交互](./posters/DeepCognition.pdf)
+
+[[194] Checklist自动生成、打分和refinement](./posters/TICK.pdf)
+
+[[195] RLCF：将checklist融入DPO](./posters/RLCF.pdf)
+
+[[196] AlphaEvolve: llm + 演化算法 for 科学/工程问题](./posters/AlphaEvolve.pdf)
+
+[[197] Multi-TAG: 多工具ensemble的prompt method for TIR](./posters/Multi-TAG.pdf)
+
+[[198] DSPy GEPA: 将演化算法引入prompt优化](./posters/GEPA.pdf)
+
+[[199] Reasoning模型的Inverse Scaling Laws](./posters/inverse-scaling-ttc.pdf)
+
+[[200] ARPO：基于GRPO的熵感知TIR策略优化方法](./posters/ARPO.pdf)
+
+[[201] AutoTIR: 让LRM具备多工具自主选择的能力](./posters/AutoTIR.pdf)
+
+[[202] MemTool：在多轮对话中如何动态管理每一轮query的工具调用集合](./posters/MemTool.pdf)
+
+[[203] TTD-DR: 基于草稿迭代更新的DeepResearch方案](./posters/TTD-DR.pdf)
+
+[[204] CollabLLM: 从单轮response优化到多轮对话的协作优化](./posters/CollabLLM.pdf)
+
+[[205] MetaAgent: Prompt-based + 双Agent + 自我演化(Self-Evolution) for TIR](./posters/MetaAgent.pdf)
+
+[[206] Efficient Agents:专注于性价比的agent框架](./posters/EfficientAgents.pdf)
+
+[[207] Cognitive Kernel-Pro: 腾讯AI Lab开源的multi-agent deep research方案](./posters/CognitiveKernel-Pro.pdf)
+
+[[208] CoAct-1：基于orchestrator-worker 架构的multi-agent computer use agent](./posters/CoAct-1.pdf)
+
+[[209] R-Zero: 无需训练集、基于Challenger–Solver协作来提升llm math reasoning能力](./posters/R-Zero.pdf)
+
+[[210] 聊一聊最近比较火的Hierarchical Reasoning Model模型](https://zhuanlan.zhihu.com/p/1938620209360512923)
+
+[[211] AWorld: 包含基于Execution–Guard的multi-agent架构的agent开发框架](./posters/AWorld.pdf)
+
+[[212] SSRL：通过llm Self-Search来降低Web Agent训练成本](./posters/SSRL.pdf)
+
+[[213] PASR：让LLM在generation过程中主动self-refine](./posters/PASR.pdf)
+
+[[214] Chain-of-Agents：通过Multi-Agent System蒸馏 + RLVR 构建具备TIR能力的Agent Foundation Model](./posters/Chain-of-Agents.pdf)
+
+[[215] Atom-Searcher：基于细粒度PRM的Web Agent](./posters/Atom-Searcher.pdf)
+
+[[216] ReasonZoo: 对TIR(tool-integrated reasoning)的几点实验研究和分析](./posters/ReasonZoo.pdf)
+
+[[217] Memento:记忆(Memory)驱动自进化Deep Research方案](./posters/Memento.pdf)
+
+
+
+
+
+
